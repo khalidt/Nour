@@ -38,7 +38,7 @@ output:
 # Installation:
 
 * ### Install from pip:
-  Use the package manager [pip](https://pypi.org/project/pip/) to install Nour.
+  Use the package manager [pip](https://pypi.org/project/Nour/1.0.1/) to install Nour.
 
 ```bash
 pip install Nour
