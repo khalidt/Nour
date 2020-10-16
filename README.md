@@ -1,7 +1,7 @@
 # Nour
 Nour is a tool that translates Arabic words, letters, or sentences to and from  Braille notations.
 
-Nour v0.0.1 has used the unified braille standard for Arabic that was developed at a conference in Saudi Arabia in 2002. However, some other Arab countries in 2013 do not sign it up thus they use a different standard of braille notation which will be added in the next version of Nour. based on [the world Braille usage](https://unesdoc.unesco.org/ark:/48223/pf0000087242) we added the unified braille standard for Arabic and we will add other Arab countries standards 
+Nour has used the unified braille standard for Arabic that was developed at a conference in Saudi Arabia in 2002. However, some other Arab countries in 2013 do not sign it up thus they use a different standard of braille notation which will be added in the next version of Nour. based on [the world Braille usage](https://unesdoc.unesco.org/ark:/48223/pf0000087242) we added the unified braille standard for Arabic and we will add other Arab countries standards 
 
 # Example:
 
